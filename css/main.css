@@ -3,9 +3,11 @@ body {
 }
 /* Add a black background color to the top navigation */
 .topnav {
+  align-self: cente;
   background-color: cadetblue;
   overflow: hidden;
   z-index: 1;
+  max-width: fit-content;
 }
 
 /* Style the links inside the navigation bar */
